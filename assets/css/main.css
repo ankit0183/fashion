@@ -7,6 +7,7 @@
   position: relative;
   overflow: hidden;
   border-radius: 10px;
+  margin:10px;
 }
 
 .gallery .gallery-item img {
@@ -33,7 +34,7 @@
 
 .gallery .gallery-links .preview-link:hover,
 .gallery .gallery-links .details-link:hover {
-  color: #5f0707;
+  color: #fff;
 }
 
 .gallery .gallery-links .details-link {
